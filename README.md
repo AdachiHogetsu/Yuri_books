@@ -32,7 +32,7 @@ Yuri书店
         -service：包中存储项目用到的Servlet类重载的service()方法
         -servlet:包中存储着网站用到的实现各种功能的Servlet类
         -utils：包中存储着项目用到的工具类
-        -web
+-web
 
         -admin：包中存储后台管理系统的所有JSP页面文件以及CSS、JS和图片等
         -css、js、fonts、images、layer、picture包括前后台系统中用到的CSS、JS、字体样式和图片等
